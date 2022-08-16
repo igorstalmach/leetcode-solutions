@@ -1,3 +1,5 @@
-# My solutions for LeetCode problems.
+# LeetCode problems
 
-## Sorted according to problems' difficulty.
+My solutions for LeetCode problems.
+
+Sorted according to problems' difficulty.
